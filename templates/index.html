@@ -1,0 +1,126 @@
+
+
+
+{% block head %}
+
+<body style="background-color:rgba(197, 129, 4, 0.548);">
+
+  
+
+<title>CrystalBall</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content"  ><!--style="background-image: url({{url_for('static',filename='background.jpeg')}})"-->
+    <h1 style="text-align: center">Covid CrystalBall</h1>
+
+<br/>
+<br/>
+    <div class="form" style="text-align: center">
+        <form action="/math" method="POST">
+            <label for="state">Choose a State</label>
+            
+<select id="state" name="state">
+  {% for state in states %}
+  <option value= "{{state}}">{{state}}</option>"
+  {% endfor %}
+</select>
+
+<br/>
+<br/>
+<!--
+    <div class="form" style="text-align: center">
+        <form action="/math" method="POST">
+            <label for="month">Choose a Month</label>
+<select id="month" name="month">
+  {% for month in months %}
+  <option value= "{{month}}">{{month}}</option>"
+  {% endfor %}
+</select>
+
+<br/>
+<br/>
+
+    <div class="form" style="text-align: center">
+        <form action="/math" method="POST">
+            <label for="date">Choose a Date</label>
+
+<select id="date" name="date">
+  {% for date in dates %}
+  <option value= "{{date}}">{{date}}</option>"
+  {% endfor %}
+</select>
+
+<br/>
+<br/>
+    <div class="form" style="text-align: center">
+        <form action="/math" method="POST">
+            <label for="year">Choose a Year</label>
+
+<select id="year" name="year" >
+  {% for year in years %}
+  <option value= "{{year}}">{{year}}</option>"
+  {% endfor %}
+</select>
+
+
+<br/>
+<br/>
+-->
+
+    <div class="form" style="text-align: center">
+        <form action="/math" method="POST">
+            <label for="type">Confirmed/Recovered/Deceased</label>
+
+<select id="type" name="type" >
+  {% for type in types %}
+  <option value= "{{type}}">{{type}}</option>"
+  {% endfor %}
+</select>
+
+<br/>
+<br/>
+
+<div class="form" style="text-align: center">
+  <form action="/math" method="POST">
+      <label for="cum_da">Cumulative / Daily</label>
+
+<select id="cum_da" name="cum_da" >
+{% for cum_da in cum_das %}
+<option value= "{{cum_da}}">{{cum_da}}</option>"
+{% endfor %}
+</select>
+
+<br/>
+<br/>
+<div class="form" style="text-align: center">
+  <form action="/math" method="POST">
+      <label for="datex">Till Date:</label>
+      <input type="date" id="datex" name="datex" min="2020-03-16">
+<br/>
+<br/>
+
+            <!--<input type="text" name="num1" id="num1">
+            <input type="text" name="num2" id="num2">-->
+            <input type="submit" value="Graph It!">
+        </form>
+    </div>
+</div>
+<br/>
+<br/>
+Message<br/>
+Hey guys, as you can see the website clearly tells that I dont know Web-Dev<br/>
+and I'm looking for front-end Web Developers who know HTML and CSS (JS optional).<br/>
+If interested do contact me by filling the Google Form.<br/>
+<br/><br/>
+If any error, comment or enquiry do send them through the Google Form below.<br/>
+<br/>
+<br/>
+Disclaimer<br/>
+This is just a machine learning model as and is not 100% accurate.<br/>
+I am not responsible in any sort of manner if you think this is the actual outcome.<br/>
+<br/><br/><br/><br/>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSceKXNBkB4VbYGSLQ0rSj7W0UHboXJOqBFTDRUYoHdxvRsPJg/viewform?embedded=true" width="640" height="677" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</body>
+{% endblock %}

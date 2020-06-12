@@ -1,0 +1,7 @@
+flask==1.1.2
+sklearn
+json
+plotly==3.10.0
+pandas
+numpy
+matplotlib

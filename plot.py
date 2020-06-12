@@ -1,18 +1,13 @@
 import pandas as pd
 import io
 import requests
-import matplotlib.pyplot as plt
 from sklearn.linear_model import SGDClassifier
-import random
-import numpy as np
+import numpy as np 
 from sklearn.metrics import accuracy_score
-import sys
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn import linear_model
 import warnings
-import json
 import plotly
-import plotly.plotly as py
 import plotly.graph_objs as go
 warnings.simplefilter("ignore")
 # import plotly.express as px

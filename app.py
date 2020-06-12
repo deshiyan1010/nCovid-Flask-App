@@ -1,6 +1,5 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request
 from plot import plot
-import json
 import plotly
 app = Flask(__name__,static_url_path='/static')
 
@@ -81,4 +80,4 @@ def math_operation():
 if __name__ == '__main__':
     #app.run(debug=True)
 
-    app.run(host='0.0.0.0',port=8090)
+    app.run()

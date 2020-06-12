@@ -1,7 +1,5 @@
-flask==1.1.2
-sklearn
-json
+Flask==1.1.2
+sklearn==0.0
 plotly==3.10.0
-pandas
-numpy
-matplotlib
+pandas==1.0.1
+numpy==1.18.4

@@ -1,6 +1,9 @@
 from flask import Flask, render_template, request
 from plot import plot
 import plotly
+import os
+
+
 app = Flask(__name__,static_url_path='/static')
 
 def mon_name_num(month):
@@ -76,8 +79,15 @@ def math_operation():
         return render_template('file.html')#,graphJSON=graphJSON
 
 
-
+#port = int(os.getenv("PORT"))
 if __name__ == '__main__':
-    #app.run(debug=True)
-
-    app.run()
+    
+    #print(os.getcwd())
+    try:
+        path = os.path.join(os.getcwd(),"templates","file.html")
+        os.remove(path)
+    except:
+        print("nope")
+        pass
+    #app.run(host='0.0.0.0',port=port)
+    app.run(debug=True)

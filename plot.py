@@ -9,6 +9,7 @@ from sklearn import linear_model
 import warnings
 import plotly
 import plotly.graph_objs as go
+import os
 warnings.simplefilter("ignore")
 # import plotly.express as px
 
@@ -53,7 +54,7 @@ def plot(cat="Confirmed",state="TT",till = "2020-07-01",cum_da = "Cumulative",st
   if cat=="Recovered":
     X_train, y_train = np.array(rec_csv["Day num"]), np.array(rec_csv[state])
 
-  if cat=="Desceased":
+  if cat=="Deceased":
     X_train, y_train = np.array(des_csv["Day num"]), np.array(des_csv[state])
 
   if cat=="Confirmed":
@@ -66,10 +67,10 @@ def plot(cat="Confirmed",state="TT",till = "2020-07-01",cum_da = "Cumulative",st
   vector = y_train.reshape(-1,1)
 
 
-  poly = PolynomialFeatures(degree=3)
+  poly = PolynomialFeatures(degree=7)
   X_ = poly.fit_transform(X)
 
-  clf = linear_model.Ridge()
+  clf = linear_model.Lasso()
   clf.fit(X_, vector)
 
 
@@ -88,6 +89,16 @@ def plot(cat="Confirmed",state="TT",till = "2020-07-01",cum_da = "Cumulative",st
       y=vector.ravel(), name="Actual"
   )
   data = [Predicted,Actual]
+
+  try:
+    path = os.path.join(os.getcwd(),"templates","file.html")
+    os.remove(path)
+  except:
+    print("nope")
+
+    pass
+
+
   plotly.offline.plot({"data":data,"layout":go.Layout(title="Covid Predictor: "+str(cat)+" cases of "+str(stt_name))},filename="templates/file.html",auto_open=False)
   #py.iplot([trace0,trace1])
   #trace0 = px.line(vector.ravel(),X.ravel())

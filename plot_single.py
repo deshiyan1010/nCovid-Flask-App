@@ -10,6 +10,7 @@ import warnings
 import plotly
 import plotly.graph_objs as go
 import os
+from datetime import datetime
 warnings.simplefilter("ignore")
 # import plotly.express as px
 
@@ -170,16 +171,14 @@ def plot(cat="Confirmed",state="TT",till = "2020-07-01",cum_da = "Cumulative",st
   )
   data = [Predicted,Actual]
 
-  try:
-    path = os.path.join(os.getcwd(),"templates","file.html")
-    os.remove(path)
-  except:
-    print("nope")
-
-    pass
 
 
-  plotly.offline.plot({"data":data,"layout":go.Layout(title="Covid Predictor: "+str(cat)+" cases of "+str(stt_name))},filename="templates/file.html",auto_open=False)
+
+  filex = str(cat)+str(state)+str(till.date())+str(datetime.now().microsecond)
+  plotly.offline.plot({"data":data,"layout":go.Layout(title="Covid Predictor: "+str(cat)+" cases of "+str(stt_name))},filename="templates/"+str(filex)+".html",auto_open=False)
+
+  return filex
+
 
 
 if __name__=="__main__":

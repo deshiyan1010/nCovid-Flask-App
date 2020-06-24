@@ -1,0 +1,6 @@
+<option>Darbhanga</option>
+<option>Patna</option>
+<option>Jehanabad</option>
+<option>Bihar Sharif</option>
+<option>Muzzafarpur</option>
+<option>PAN State</option>

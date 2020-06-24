@@ -1,0 +1,12 @@
+<option>Jamshedpur</option>
+<option>Ranchi</option>
+<option>Bokaro</option>
+<option>Hazaribagh</option>
+<option>Dhanbad</option>
+<option>Deoghar</option>
+<option>Sahibganj</option>
+<option>PAN State</option>
+<option>West Singhbhum</option>
+<option>Hamirpur</option>
+<option>Pakur</option>
+<option>Khunti</option>

@@ -1,0 +1,4 @@
+<option>Gurgaon</option>
+<option>Rohtak</option>
+<option>Sonepat</option>
+<option>Faridabad</option>

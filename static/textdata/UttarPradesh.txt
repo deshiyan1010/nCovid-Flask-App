@@ -1,0 +1,13 @@
+<option>Bulandshahar</option>
+<option>Agra</option>
+<option>Noida</option>
+<option>Ghaziabad</option>
+<option>Meerut</option>
+<option>Baghpat</option>
+<option>PAN State</option>
+<option>Lucknow</option>
+<option>Allahabad</option>
+<option>Aligarh</option>
+<option>Gorakhpur</option>
+<option>Saifai</option>
+<option>Varanasi</option>

@@ -1,0 +1,50 @@
+<option>Hyderabad</option>
+<option>Cyberabad</option>
+<option>Adilabad</option>
+<option>Khammam</option>
+<option>Nizamabad</option>
+<option>Nalgonda</option>
+<option>Karimnagar</option>
+<option>Warangal</option>
+<option>Rangareddy</option>
+<option>Mahabubnagar</option>
+<option>Medak</option>
+<option>PAN State</option>
+<option>Bhadradri Kothagudem</option>
+<option>Jagtial</option>
+<option>Jangaon</option>
+<option>Jayashankar Bhupalapally</option>
+<option>Jogulamba Gadwal</option>
+<option>Kamareddy</option>
+<option>Kumuram Bheem Asifabad</option>
+<option>Mahabubabad</option>
+<option>Mancherial</option>
+<option>Medchal Malkajgiri</option>
+<option>Mulugu</option>
+<option>Nagarkurnool</option>
+<option>Narayanpet</option>
+<option>Nirmal</option>
+<option>Peddapalli</option>
+<option>Rajanna Sircilla</option>
+<option>Ranga Reddy</option>
+<option>Sangareddy</option>
+<option>Siddipet</option>
+<option>Suryapet</option>
+<option>Vikarabad</option>
+<option>Wanaparthy</option>
+<option>Warangal Rural</option>
+<option>Warangal Urban</option>
+<option>Yadadri Bhuvanagiri</option>
+<option>Secunderabad</option>
+<option>Mahbubnagar</option>
+<option>Asifabad</option>
+<option>Bhupalpally</option>
+<option>Gadwal</option>
+<option>Janagoan</option>
+<option>Kothagudem</option>
+<option>Medchal</option>
+<option>Peddapally</option>
+<option>Rajanna Siricilla</option>
+<option>Ranga reddy</option>
+<option>Warangal Urban & Rural</option>
+<option>Yadadri Bhongiri</option>

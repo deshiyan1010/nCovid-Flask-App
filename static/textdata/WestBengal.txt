@@ -1,0 +1,6 @@
+<option>Kolkata</option>
+<option>Berhampore</option>
+<option>Alipurduar</option>
+<option>Siliguri</option>
+<option>Midnapore</option>
+<option>Howrah</option>

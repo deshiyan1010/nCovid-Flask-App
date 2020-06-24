@@ -1,0 +1,6 @@
+<option>Kakinada</option>
+<option>Vijayawada</option>
+<option>Visakhapatnam</option>
+<option>Kurnool</option>
+<option>Tirupati</option>
+<option>Kadapa</option>

@@ -1,0 +1,20 @@
+<option>Shillong</option>
+<option>Dhankheti</option>
+<option>Tura</option>
+<option>Mairang</option>
+<option>Nongstoin</option>
+<option>Mariang</option>
+<option>Mawkyrwat</option>
+<option>Nongpoh</option>
+<option>East Jaintia Hills</option>
+<option>Khliehriat</option>
+<option>Jowai</option>
+<option>West Garo Hills</option>
+<option>East Garo Hills</option>
+<option>Williamnagar</option>
+<option>North Garo Hills</option>
+<option>South Garo Hills</option>
+<option>Baghmara</option>
+<option>South West Garo Hills</option>
+<option>Ampati</option>
+<option></option>

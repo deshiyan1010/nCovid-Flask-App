@@ -1,0 +1,38 @@
+<option>Dibrugarh</option>
+<option>Guwahati</option>
+<option>Jorhat</option>
+<option>Silchar</option>
+<option>Tezpur</option>
+<option>Biswanath</option>
+<option>Bongaigaon</option>
+<option>Barpeta</option>
+<option>Baksa</option>
+<option>Cachar</option>
+<option>Charaideo</option>
+<option>Chirang</option>
+<option>Dhubri</option>
+<option>Dima Hasao</option>
+<option>Darrang</option>
+<option>Dhemaji</option>
+<option>Goalpara</option>
+<option>Golaghat</option>
+<option>Guwahati City</option>
+<option>Hamren</option>
+<option>Hailakandi</option>
+<option>Hojai</option>
+<option>Karbi Anglong</option>
+<option>Karimganj</option>
+<option>Kamrup</option>
+<option>Kokrajhar</option>
+<option>Lakhimpur</option>
+<option>Morigaon</option>
+<option>Majuli</option>
+<option>Nagaon</option>
+<option>Nalbari</option>
+<option>Sadiya</option>
+<option>Sivasagar</option>
+<option>Sonitpur</option>
+<option>South Salmara</option>
+<option>Tinsukia</option>
+<option>Udalguri</option>
+<option>PAN State</option>

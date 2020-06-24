@@ -1,0 +1,12 @@
+<option>Bangalore</option>
+<option>Belgaum</option>
+<option>Bellary</option>
+<option>Bidar</option>
+<option>Gulbarga</option>
+<option>Hassan</option>
+<option>Hubli–Dharwad</option>
+<option>Mangalore</option>
+<option>Mysore</option>
+<option>Shimoga</option>
+<option>Tumkur</option>
+<option>Udupi</option>

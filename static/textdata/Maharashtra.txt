@@ -1,0 +1,27 @@
+<option>Ahmednagar</option>
+<option>Aurangabad</option>
+<option>Dhule</option>
+<option>Miraj</option>
+<option>Mumbai</option>
+<option>Nagpur</option>
+<option>Pune</option>
+<option>Solapur</option>
+<option>Thane</option>
+<option>Latur</option>
+<option>Udgir</option>
+<option>Wardha</option>
+<option>Parbhani</option>
+<option>Amravati</option>
+<option>Akola</option>
+<option>Sangli</option>
+<option>Nandurbar</option>
+<option>Jalna</option>
+<option>Nasik City</option>
+<option>Kalyan-Dombivli</option>
+<option>Palghar</option>
+<option>Navi Mumbai</option>
+<option>PAN State</option>
+<option>Bhayander</option>
+<option>Mira Road</option>
+<option>Nashik</option>
+<option>Pimpri Chinchwad</option>

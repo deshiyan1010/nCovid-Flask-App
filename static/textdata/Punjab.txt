@@ -1,0 +1,21 @@
+<option>Amritsar</option>
+<option>Patiala</option>
+<option>Goniana</option>
+<option>Mohali (SAS Nagar)</option>
+<option>Kharar</option>
+<option>Pathankot</option>
+<option>Faridkot</option>
+<option>Hoshiarpur</option>
+<option>Verka</option>
+<option>Ajnala</option>
+<option>Baba Bakala</option>
+<option>Majitha</option>
+<option>Chheharta</option>
+<option>Chogawan</option>
+<option>Lopoke</option>
+<option>Rajasansi</option>
+<option>Rayya</option>
+<option>New Amritsar</option>
+<option>Manawala</option>
+<option>Jandiala Guru</option>
+<option>Ludhiana</option>

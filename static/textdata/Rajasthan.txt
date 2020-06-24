@@ -1,0 +1,44 @@
+<option>Jaipur</option>
+<option>Udaipur</option>
+<option>Ajmer</option>
+<option>Baran</option>
+<option>Jodhpur</option>
+<option>Nathdwara</option>
+<option>Bhilwara</option>
+<option>Bikaner</option>
+<option>Jhalawar</option>
+<option>Alwar</option>
+<option>Banswara</option>
+<option>Barmer</option>
+<option>Bharatpur</option>
+<option>Bundi</option>
+<option>Chittorgarh</option>
+<option>Churu</option>
+<option>Dausa</option>
+<option>Dholpur</option>
+<option>Dungarpur</option>
+<option>Grp Ajmer</option>
+<option>Grp Jodhpur</option>
+<option>Hanumangarh</option>
+<option>Jaipur Rural</option>
+<option>Jaisalmer</option>
+<option>Jalore</option>
+<option>Jhunjhunu</option>
+<option>Jodhpur Rural</option>
+<option>Karauli</option>
+<option>Kota City</option>
+<option>Kota Rural</option>
+<option>Nagaur</option>
+<option>Pali</option>
+<option>Pratapgarh</option>
+<option>Rajsamand</option>
+<option>Sawai Madhopur</option>
+<option>Sikar</option>
+<option>Sirohi</option>
+<option>Sriganganagar</option>
+<option>Tonk</option>
+<option>Kota</option>
+<option>Ganganagar</option>
+<option>PAN State</option>
+<option>Sri Ganganagar</option>
+<option>Jhunjhunuu</option>

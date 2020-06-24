@@ -1,0 +1,7 @@
+<option>Ahmedabad</option>
+<option>Bhavnagar</option>
+<option>Jamnagar</option>
+<option>Morbi</option>
+<option>Rajkot</option>
+<option>Surat</option>
+<option>Vadodara</option>

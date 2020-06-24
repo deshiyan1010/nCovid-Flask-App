@@ -1,0 +1,24 @@
+<option>Bilaspur</option>
+<option>Raipur</option>
+<option>Jagdalpur</option>
+<option>Korba</option>
+<option>jashpur nagar</option>
+<option>Dantewada</option>
+<option>Naraynpur</option>
+<option>Mungeli</option>
+<option>Balod</option>
+<option>Sukma</option>
+<option>Bastar</option>
+<option>Raigarh</option>
+<option>Janjgir</option>
+<option>Baloda Bazar</option>
+<option>Bemetara</option>
+<option>Surajpur</option>
+<option>Mahasamund</option>
+<option>PAN State</option>
+<option>Korea</option>
+<option>Katghora</option>
+<option>Rajnandgaon</option>
+<option>Kabirdham</option>
+<option>Balrampur</option>
+<option>Dhamtari</option>

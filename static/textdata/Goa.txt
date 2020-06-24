@@ -1,0 +1,2 @@
+<option>Bambolim</option>
+<option>Panaji</option>

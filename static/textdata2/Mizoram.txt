@@ -1,0 +1,11 @@
+<option>Aizawl</option>
+<option>Champhai</option>
+<option>Hnahthial</option>
+<option>Khawzawl</option>
+<option>Kolasib</option>
+<option>Lawngtlai</option>
+<option>Lunglei</option>
+<option>Mamit</option>
+<option>Saiha</option>
+<option>Saitual</option>
+<option>Serchhip</option>

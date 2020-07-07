@@ -1,0 +1,11 @@
+<option>Central Delhi</option>
+<option>East Delhi</option>
+<option>New Delhi</option>
+<option>North Delhi</option>
+<option>North East Delhi</option>
+<option>North West Delhi</option>
+<option>Shahdara</option>
+<option>South Delhi</option>
+<option>South East Delhi</option>
+<option>South West Delhi</option>
+<option>West Delhi</option>

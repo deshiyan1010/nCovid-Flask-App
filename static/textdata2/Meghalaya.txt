@@ -1,0 +1,11 @@
+<option>East Garo Hills</option>
+<option>East Jaintia Hills</option>
+<option>East Khasi Hills</option>
+<option>North Garo Hills</option>
+<option>Ribhoi</option>
+<option>South Garo Hills</option>
+<option>South West Garo Hills</option>
+<option>South West Khasi Hills</option>
+<option>West Garo Hills</option>
+<option>West Jaintia Hills</option>
+<option>West Khasi Hills</option>

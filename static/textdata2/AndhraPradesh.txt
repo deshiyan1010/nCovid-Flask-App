@@ -1,0 +1,15 @@
+<option>Foreign Evacuees</option>
+<option>Anantapur</option>
+<option>Chittoor</option>
+<option>East Godavari</option>
+<option>Guntur</option>
+<option>Krishna</option>
+<option>Kurnool</option>
+<option>Other State</option>
+<option>Prakasam</option>
+<option>S.P.S. Nellore</option>
+<option>Srikakulam</option>
+<option>Visakhapatnam</option>
+<option>Vizianagaram</option>
+<option>West Godavari</option>
+<option>Y.S.R. Kadapa</option>

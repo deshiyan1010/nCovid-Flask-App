@@ -1,0 +1,22 @@
+<option>Amritsar</option>
+<option>Barnala</option>
+<option>Bathinda</option>
+<option>Faridkot</option>
+<option>Fatehgarh Sahib</option>
+<option>Fazilka</option>
+<option>Ferozepur</option>
+<option>Gurdaspur</option>
+<option>Hoshiarpur</option>
+<option>Jalandhar</option>
+<option>Kapurthala</option>
+<option>Ludhiana</option>
+<option>Mansa</option>
+<option>Moga</option>
+<option>Pathankot</option>
+<option>Patiala</option>
+<option>Rupnagar</option>
+<option>S.A.S. Nagar</option>
+<option>Sangrur</option>
+<option>Shahid Bhagat Singh Nagar</option>
+<option>Sri Muktsar Sahib</option>
+<option>Tarn Taran</option>

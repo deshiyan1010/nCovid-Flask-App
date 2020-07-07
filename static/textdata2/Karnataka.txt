@@ -1,0 +1,31 @@
+<option>Bagalkote</option>
+<option>Ballari</option>
+<option>Belagavi</option>
+<option>Bengaluru Rural</option>
+<option>Bengaluru Urban</option>
+<option>Bidar</option>
+<option>Chamarajanagara</option>
+<option>Chikkaballapura</option>
+<option>Chikkamagaluru</option>
+<option>Chitradurga</option>
+<option>Dakshina Kannada</option>
+<option>Davanagere</option>
+<option>Dharwad</option>
+<option>Gadag</option>
+<option>Hassan</option>
+<option>Haveri</option>
+<option>Kalaburagi</option>
+<option>Kodagu</option>
+<option>Kolar</option>
+<option>Koppal</option>
+<option>Mandya</option>
+<option>Mysuru</option>
+<option>Other State</option>
+<option>Raichur</option>
+<option>Ramanagara</option>
+<option>Shivamogga</option>
+<option>Tumakuru</option>
+<option>Udupi</option>
+<option>Uttara Kannada</option>
+<option>Vijayapura</option>
+<option>Yadgir</option>

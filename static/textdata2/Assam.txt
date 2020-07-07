@@ -1,0 +1,35 @@
+<option>Airport Quarantine</option>
+<option>Baksa</option>
+<option>Barpeta</option>
+<option>Biswanath</option>
+<option>Bongaigaon</option>
+<option>Cachar</option>
+<option>Charaideo</option>
+<option>Chirang</option>
+<option>Darrang</option>
+<option>Dhemaji</option>
+<option>Dhubri</option>
+<option>Dibrugarh</option>
+<option>Dima Hasao</option>
+<option>Goalpara</option>
+<option>Golaghat</option>
+<option>Hailakandi</option>
+<option>Hojai</option>
+<option>Jorhat</option>
+<option>Kamrup</option>
+<option>Kamrup Metropolitan</option>
+<option>Karbi Anglong</option>
+<option>Karimganj</option>
+<option>Kokrajhar</option>
+<option>Lakhimpur</option>
+<option>Majuli</option>
+<option>Morigaon</option>
+<option>Nagaon</option>
+<option>Nalbari</option>
+<option>Other State</option>
+<option>Sivasagar</option>
+<option>Sonitpur</option>
+<option>South Salmara Mankachar</option>
+<option>Tinsukia</option>
+<option>Udalguri</option>
+<option>West Karbi Anglong</option>

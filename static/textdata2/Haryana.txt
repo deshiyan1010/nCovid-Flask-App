@@ -1,0 +1,24 @@
+<option>Foreign Evacuees</option>
+<option>Ambala</option>
+<option>Bhiwani</option>
+<option>Charkhi Dadri</option>
+<option>Faridabad</option>
+<option>Fatehabad</option>
+<option>Gurugram</option>
+<option>Hisar</option>
+<option>Italians</option>
+<option>Jhajjar</option>
+<option>Jind</option>
+<option>Kaithal</option>
+<option>Karnal</option>
+<option>Kurukshetra</option>
+<option>Mahendragarh</option>
+<option>Nuh</option>
+<option>Palwal</option>
+<option>Panchkula</option>
+<option>Panipat</option>
+<option>Rewari</option>
+<option>Rohtak</option>
+<option>Sirsa</option>
+<option>Sonipat</option>
+<option>Yamunanagar</option>

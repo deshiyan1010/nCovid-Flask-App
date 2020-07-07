@@ -1,0 +1,24 @@
+<option>Bokaro</option>
+<option>Chatra</option>
+<option>Deoghar</option>
+<option>Dhanbad</option>
+<option>Dumka</option>
+<option>East Singhbhum</option>
+<option>Garhwa</option>
+<option>Giridih</option>
+<option>Godda</option>
+<option>Gumla</option>
+<option>Hazaribagh</option>
+<option>Jamtara</option>
+<option>Khunti</option>
+<option>Koderma</option>
+<option>Latehar</option>
+<option>Lohardaga</option>
+<option>Pakur</option>
+<option>Palamu</option>
+<option>Ramgarh</option>
+<option>Ranchi</option>
+<option>Sahibganj</option>
+<option>Saraikela-Kharsawan</option>
+<option>Simdega</option>
+<option>West Singhbhum</option>

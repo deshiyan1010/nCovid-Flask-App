@@ -31,7 +31,7 @@
                 box-sizing: border-box; 
                 background: linear-gradient(90deg, #1489aa 0%, #000851 100%);             
 	             background-size: 400% 400%;
-              	animation: gradient 20s ease infinite;
+              	animation: gradient 7s ease infinite;
 
                   }
 
@@ -194,7 +194,14 @@
           font-size: 1.5rem;
           margin: 5rem auto;
           text-align: center;
-          max-width: 50rem;
+          max-width: 60rem;
+        }
+
+        .sub-text {
+          border: 1px solid white;
+          margin: 1rem auto;
+          text-align: center;
+          max-width: 55rem;
         }
 
         .left {
@@ -342,9 +349,33 @@
   
           }
 
+          .info {
+              margin-top: 1rem;
+              display: block;
+          }
+
+          h3 {
+              margin-bottom: 2rem;
+              font-weight: 300;
+              font-size: 2rem;
+          }
+          .underline {
+            border-bottom: 1px solid white;
+          }
 
     </style>
-    <title>About</title>
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+      <script>
+        $(function () {
+          
+                $("#text-one").change(function() {
+                    $("#district").load("static/textdata2/" + $(this).val() + ".txt");
+                });
+    
+    
+        });
+      </script>
+    <title>Whatsapp Service</title>
 </head>
 <body>
     <header>
@@ -354,34 +385,33 @@
         <a href="/statewise">Statewise Status</a>
         <a href="/zonemain">Zone Status</a>
         <a href="/news">News</a>
-          <a href="/whatsapp">Whatsapp Service</a>
+        <a href="/whatsapp">Whatsapp Service</a>
         <a href="/aboutus" class="active">About</a>
         <a href="javascript:void(0);" class="icon" onclick="myFunction()">
           <i class="fa fa-bars"></i>
         </a>
       </div>
       <div class="main-text">
-        <span style="font-size: 5rem;">About Us</span>
-        <br>
-        <span class="left"><span style="font-size: 2.3rem;">Front-end Developer</span>
-        <p>Akshat Khare</p>
-        <ul class="social-links">
-          <li><a href="https://www.linkedin.com/in/akshat-khare-20b65a198/"><ion-icon name="logo-linkedin"></ion-icon> <span class="social">Akshat khare</span></a></li>
-          <li><a href="https://github.com/akshat-cse"><ion-icon name="logo-github"></ion-icon> <span class="social">Akshat-cse</span></a></li>
-          <li><a href="https://www.instagram.com/akshat__khare/"><ion-icon name="logo-instagram"></ion-icon> <span class="social">akshat__khare</span></a></li>
-       </ul>
-        </span>
-        <span class="right"><span style="font-size: 2.3rem;">Back-end Developer</span>
-        <p>Vinayak Ashok Mikkal</p>
-        <ul class="social-links">
-          <li><a href="https://www.linkedin.com/in/vinayak-mikkal-70a014194/"><ion-icon name="logo-linkedin"></ion-icon> <span class="social">Vinayak Mikkal</span></a></li>
-          <li><a href="https://github.com/deshiyan1010"><ion-icon name="logo-github"></ion-icon></i> <span class="social">deshiyan1010</span></a></li>
-          <li><a href="https://www.instagram.com/vinayak_a_m/"><ion-icon name="logo-instagram"></ion-icon> <span class="social">vinayak_a_m</span></a></li>
-       </ul>
-        </span>
-      </div>
+        <div class="sub-text">
+          <h2>Registration Final Step</h2>
+          <h3>Save Number as Covid alerts: +1 (415) 523-8886 </h3>
+          <h3>Send the message Through Whatsapp : join mountain-quarter  </h3>
+        </div> 
+        <h3>Name : {{name}}</h3>
+        <h3>Country Code: {{code}}</h3>
+        <h3>Phone Number: {{number}}</h3>
+        <h3>State: {{state}}</h3>
+        <h3>District: {{district}}</h3>
+        
+        <img src="{{url_for('static', filename='demo2.jpeg')}}" align="middle" style="width:250px;height:300px;" alt="Demo" border="5"/>
+        <h4>After sending the above message to the given number you will get the message as displayed.</h4>
+
+        </div>
+
+        
     </header>          
     </section> 
+    
     <script>
       function myFunction() {
         var x = document.getElementById("myTopnav");

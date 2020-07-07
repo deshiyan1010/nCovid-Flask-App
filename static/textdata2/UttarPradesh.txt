@@ -1,0 +1,75 @@
+<option>Agra</option>
+<option>Aligarh</option>
+<option>Ambedkar Nagar</option>
+<option>Amethi</option>
+<option>Amroha</option>
+<option>Auraiya</option>
+<option>Ayodhya</option>
+<option>Azamgarh</option>
+<option>Baghpat</option>
+<option>Bahraich</option>
+<option>Ballia</option>
+<option>Balrampur</option>
+<option>Banda</option>
+<option>Barabanki</option>
+<option>Bareilly</option>
+<option>Basti</option>
+<option>Bhadohi</option>
+<option>Bijnor</option>
+<option>Budaun</option>
+<option>Bulandshahr</option>
+<option>Chandauli</option>
+<option>Chitrakoot</option>
+<option>Deoria</option>
+<option>Etah</option>
+<option>Etawah</option>
+<option>Farrukhabad</option>
+<option>Fatehpur</option>
+<option>Firozabad</option>
+<option>Gautam Buddha Nagar</option>
+<option>Ghaziabad</option>
+<option>Ghazipur</option>
+<option>Gonda</option>
+<option>Gorakhpur</option>
+<option>Hamirpur</option>
+<option>Hapur</option>
+<option>Hardoi</option>
+<option>Hathras</option>
+<option>Jalaun</option>
+<option>Jaunpur</option>
+<option>Jhansi</option>
+<option>Kannauj</option>
+<option>Kanpur Dehat</option>
+<option>Kanpur Nagar</option>
+<option>Kasganj</option>
+<option>Kaushambi</option>
+<option>Kushinagar</option>
+<option>Lakhimpur Kheri</option>
+<option>Lalitpur</option>
+<option>Lucknow</option>
+<option>Maharajganj</option>
+<option>Mahoba</option>
+<option>Mainpuri</option>
+<option>Mathura</option>
+<option>Mau</option>
+<option>Meerut</option>
+<option>Mirzapur</option>
+<option>Moradabad</option>
+<option>Muzaffarnagar</option>
+<option>Pilibhit</option>
+<option>Pratapgarh</option>
+<option>Prayagraj</option>
+<option>Rae Bareli</option>
+<option>Rampur</option>
+<option>Saharanpur</option>
+<option>Sambhal</option>
+<option>Sant Kabir Nagar</option>
+<option>Shahjahanpur</option>
+<option>Shamli</option>
+<option>Shrawasti</option>
+<option>Siddharthnagar</option>
+<option>Sitapur</option>
+<option>Sonbhadra</option>
+<option>Sultanpur</option>
+<option>Unnao</option>
+<option>Varanasi</option>

@@ -1,0 +1,13 @@
+<option>Almora</option>
+<option>Bageshwar</option>
+<option>Chamoli</option>
+<option>Champawat</option>
+<option>Dehradun</option>
+<option>Haridwar</option>
+<option>Nainital</option>
+<option>Pauri Garhwal</option>
+<option>Pithoragarh</option>
+<option>Rudraprayag</option>
+<option>Tehri Garhwal</option>
+<option>Udham Singh Nagar</option>
+<option>Uttarkashi</option>

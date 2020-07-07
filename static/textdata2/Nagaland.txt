@@ -1,0 +1,11 @@
+<option>Dimapur</option>
+<option>Kiphire</option>
+<option>Kohima</option>
+<option>Longleng</option>
+<option>Mokokchung</option>
+<option>Mon</option>
+<option>Peren</option>
+<option>Phek</option>
+<option>Tuensang</option>
+<option>Wokha</option>
+<option>Zunheboto</option>

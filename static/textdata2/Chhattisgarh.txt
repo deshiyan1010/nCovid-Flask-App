@@ -1,0 +1,28 @@
+<option>Balod</option>
+<option>Baloda Bazar</option>
+<option>Balrampur</option>
+<option>Bametara</option>
+<option>Bastar</option>
+<option>Bijapur</option>
+<option>Bilaspur</option>
+<option>Dakshin Bastar Dantewada</option>
+<option>Dhamtari</option>
+<option>Durg</option>
+<option>Gariaband</option>
+<option>Janjgir Champa</option>
+<option>Jashpur</option>
+<option>Kabeerdham</option>
+<option>Kondagaon</option>
+<option>Korba</option>
+<option>Koriya</option>
+<option>Mahasamund</option>
+<option>Mungeli</option>
+<option>Narayanpur</option>
+<option>Raigarh</option>
+<option>Raipur</option>
+<option>Rajnandgaon</option>
+<option>Sukma</option>
+<option>Surajpur</option>
+<option>Surguja</option>
+<option>Uttar Bastar Kanker</option>
+<option>Gaurela Pendra Marwahi</option>

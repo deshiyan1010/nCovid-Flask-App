@@ -1,0 +1,16 @@
+<option>Bishnupur</option>
+<option>Chandel</option>
+<option>Churachandpur</option>
+<option>Imphal East</option>
+<option>Imphal West</option>
+<option>Jiribam</option>
+<option>Kakching</option>
+<option>Kamjong</option>
+<option>Kangpokpi</option>
+<option>Noney</option>
+<option>Pherzawl</option>
+<option>Senapati</option>
+<option>Tamenglong</option>
+<option>Tengnoupal</option>
+<option>Thoubal</option>
+<option>Ukhrul</option>

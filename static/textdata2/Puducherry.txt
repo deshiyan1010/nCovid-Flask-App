@@ -1,0 +1,4 @@
+<option>Karaikal</option>
+<option>Mahe</option>
+<option>Puducherry</option>
+<option>Yanam</option>

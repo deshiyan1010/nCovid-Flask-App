@@ -1,0 +1,4 @@
+<option>East Sikkim</option>
+<option>North Sikkim</option>
+<option>South Sikkim</option>
+<option>West Sikkim</option>

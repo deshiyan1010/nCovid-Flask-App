@@ -1,0 +1,34 @@
+<option>Foreign Evacuees</option>
+<option>Adilabad</option>
+<option>Bhadradri Kothagudem</option>
+<option>Hyderabad</option>
+<option>Jagtial</option>
+<option>Jangaon</option>
+<option>Jayashankar Bhupalapally</option>
+<option>Jogulamba Gadwal</option>
+<option>Kamareddy</option>
+<option>Karimnagar</option>
+<option>Khammam</option>
+<option>Komaram Bheem</option>
+<option>Mahabubabad</option>
+<option>Mahabubnagar</option>
+<option>Mancherial</option>
+<option>Medak</option>
+<option>Medchal Malkajgiri</option>
+<option>Mulugu</option>
+<option>Nagarkurnool</option>
+<option>Nalgonda</option>
+<option>Narayanpet</option>
+<option>Nirmal</option>
+<option>Nizamabad</option>
+<option>Peddapalli</option>
+<option>Rajanna Sircilla</option>
+<option>Ranga Reddy</option>
+<option>Sangareddy</option>
+<option>Siddipet</option>
+<option>Suryapet</option>
+<option>Vikarabad</option>
+<option>Wanaparthy</option>
+<option>Warangal Rural</option>
+<option>Warangal Urban</option>
+<option>Yadadri Bhuvanagiri</option>

@@ -1,0 +1,33 @@
+<option>Ahmedabad</option>
+<option>Amreli</option>
+<option>Anand</option>
+<option>Aravalli</option>
+<option>Banaskantha</option>
+<option>Bharuch</option>
+<option>Bhavnagar</option>
+<option>Botad</option>
+<option>Chhota Udaipur</option>
+<option>Dahod</option>
+<option>Dang</option>
+<option>Devbhumi Dwarka</option>
+<option>Gandhinagar</option>
+<option>Gir Somnath</option>
+<option>Jamnagar</option>
+<option>Junagadh</option>
+<option>Kheda</option>
+<option>Kutch</option>
+<option>Mahisagar</option>
+<option>Mehsana</option>
+<option>Morbi</option>
+<option>Narmada</option>
+<option>Navsari</option>
+<option>Panchmahal</option>
+<option>Patan</option>
+<option>Porbandar</option>
+<option>Rajkot</option>
+<option>Sabarkantha</option>
+<option>Surat</option>
+<option>Surendranagar</option>
+<option>Tapi</option>
+<option>Vadodara</option>
+<option>Valsad</option>

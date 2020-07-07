@@ -9,6 +9,7 @@ from resources_essentials import resourse_info, dist_list
 from zone_info import zone_info_fun
 from news_fun import news_mod
 from nltk_do import install
+from whatsappmaster import send, add_user
 app = Flask(__name__,static_url_path='/static')
 
 def mon_name_num(month):
@@ -212,6 +213,34 @@ def knowmorex():
 
     return render_template('knowmore.html')
 
+#Whatsapp
+@app.route('/whatsapp', methods=['GET', 'POST'])
+def whatsapp():
+
+    return render_template('wp.html')
+
+#Whatsapp Red
+@app.route('/whatsappsuc', methods=['GET', 'POST'])
+def whatsapp_suc():
+
+    name = request.form.get('name')
+    code = int(request.form.get('country'))
+    number = int(request.form.get('number'))
+
+    state = request.form['state']
+    district = request.form['district']
+
+    state_dict = {'StateUnassigned': 'State Unassigned', 'AndamanandNicobarIslands': 'Andaman and Nicobar Islands', 'AndhraPradesh': 'Andhra Pradesh', 'ArunachalPradesh': 'Arunachal Pradesh', 'Assam': 'Assam', 'Bihar': 'Bihar', 'Chandigarh': 'Chandigarh', 'Chhattisgarh': 'Chhattisgarh', 'Delhi': 'Delhi', 'DadraandNagarHaveliandDamanandDiu': 'Dadra and Nagar Haveli and Daman and Diu', 'Goa': 'Goa', 'Gujarat': 'Gujarat', 'HimachalPradesh': 'Himachal Pradesh', 'Haryana': 'Haryana', 'Jharkhand': 'Jharkhand', 'JammuandKashmir': 'Jammu and Kashmir', 'Karnataka': 'Karnataka', 'Kerala': 'Kerala', 'Ladakh': 'Ladakh', 'Lakshadweep': 'Lakshadweep', 'Maharashtra': 'Maharashtra', 'Meghalaya': 'Meghalaya', 'Manipur': 'Manipur', 'MadhyaPradesh': 'Madhya Pradesh', 'Mizoram': 'Mizoram', 'Nagaland': 'Nagaland', 'Odisha': 'Odisha', 'Punjab': 'Punjab', 'Puducherry': 'Puducherry', 'Rajasthan': 'Rajasthan', 'Sikkim': 'Sikkim', 'Telangana': 'Telangana', 'TamilNadu': 'Tamil Nadu', 'Tripura': 'Tripura', 'UttarPradesh': 'Uttar Pradesh', 'Uttarakhand': 'Uttarakhand', 'WestBengal': 'West Bengal'}
+    state = state_dict[state]
+    add_user(name,code,number,state,district)
+    
+
+    return render_template('suc.html',
+                            name=name,
+                            code=code,
+                            number=number,
+                            state=state,
+                            district=district)
 
 
 port = int(os.getenv("PORT"))

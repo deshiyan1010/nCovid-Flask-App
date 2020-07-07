@@ -93,4 +93,4 @@ def resourse_info(district):
 if __name__=="__main__":
     #resourse_info("Bangalore").to_csv("bangalore.csv")
 
-    district_lst_()
+    print(dist_list())

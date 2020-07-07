@@ -1,7 +1,7 @@
 import json
 import requests
 import pandas as pd 
-
+import os
 
 def get_data():
 
@@ -22,6 +22,72 @@ data = get_data()
 #             stt_lst.append(x)
 
 #     print(stt_lst)
+
+
+def distDataList():
+
+    global data
+    distlst = []
+    state_dict = {}
+    intermediate_lst = []
+    district_only = []
+    state_only = []
+    data_lst = list(data.values())
+
+    for i,_ in data.items():
+        state_only.append(i)
+
+
+    for data in data_lst:
+
+        for y in list(data.values()):
+
+            if len(y)==2:
+                continue
+            else:
+                intermediate_lst.append(y)
+
+
+    for x in intermediate_lst:
+        district_only.append(list(x))
+
+    for  i in range(len(state_only)):
+        state_only[i] = state_only[i].replace(" ","")
+
+    #print(state_only)
+    print(district_only)
+
+    dicti = {}
+
+    for key,value in zip(state_only,district_only):
+
+        dicti[key]=value
+        
+    for key, values in dicti.items():
+        f = open(os.path.join("aks",str(key)+".txt"),"w+")
+        for value in values:
+            f.write("<option>")
+            f.write(value)
+            f.write("</option>")
+            f.write("\n")
+
+
+    # for state in state_only:    
+    #     if state!="StateUnassigned":
+    #         f = open(os.path.join("aks",str(state)+".txt"),"w+")
+    #         for dis in district_only:
+    #             for x in dis:
+    #                 if x!="Unassigned":
+    #                     f.write("<option>")
+    #                     f.write(x)
+    #                     f.write("</option>")
+    #                     f.write("\n")
+        
+                
+
+
+
+
 
 def districtwise_info(state):
     
@@ -59,4 +125,5 @@ if __name__=="__main__":
     #combined = districtwise_info("Karnataka")
 
     #combined.to_csv("check.csv")
-    state()
+    #state()
+    distDataList()
